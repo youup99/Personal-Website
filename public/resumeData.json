@@ -101,10 +101,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Personal Website",
+        "category": "A React-based resume website",
+        "image": "personal-website.jpg",
+        "url": "http://www.youupkim.com"
+      },
+      {
+        "title": "LCA Estimate Model for CCU",
+        "category": "Research website built with Vue.js and Firebase",
+        "image": "lca.jpg",
+        "url": "https://lca-estimate-model-for-ccu.web.app/"
+      },
+      {
+        "title": "Parking Lot Simulator",
+        "category": "Built with Processing",
+        "image": "parking-lot.jpg",
+        "url": "https://github.com/youup99/Parking-Lot"
+      },
+      {
+        "title": "Property Rental Management System",
+        "category": "Simple Java app with Swing GUI",
+        "image": "github.jpg",
+        "url": "https://github.com/youup99/ENSF480-Final-Project"
+      },
+      {
+        "title": "Client-Server Toolshop",
+        "category": "Simple Java app with Swing GUI",
+        "image": "github.jpg",
+        "url": "https://github.com/youup99/ENSF-409-Final-Project"
       }
     ]
   }
