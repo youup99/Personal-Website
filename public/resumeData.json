@@ -74,11 +74,7 @@
       },
       {
         "name": "React",
-        "level": "50%"
-      },
-      {
-        "name": "Angular",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "Java",
@@ -94,12 +90,18 @@
       },
       {
         "name": "SQL",
-        "level": "60%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "MyFitness",
+        "category": "Workout tracker built with React Native",
+        "image": "github.jpg",
+        "url": "https://github.com/youup99/MyFitness"
+      },
       {
         "title": "Personal Website",
         "category": "A React-based resume website",
