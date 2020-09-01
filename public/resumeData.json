@@ -40,11 +40,18 @@
       {
         "school": "University of Calgary",
         "degree": "Bachelor of Science in Software Engineering",
-        "graduated": "Expected April 2022",
+        "graduated": "Expected May 2022",
         "description": "Relevant Coursework: Data Structures and Algorithms, Principles of Software Design"
       }
     ],
     "work": [
+      {
+        "company": "BMO Capital Markets",
+        "title": "Software Developer Intern",
+        "years": "September 2020 - December 2020",
+        "description": "",
+        "image": "bmo.jpg"
+      },
       {
         "company": "University of Calgary",
         "title": "Software Developer Intern",
