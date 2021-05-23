@@ -40,7 +40,7 @@
       {
         "school": "University of Calgary",
         "degree": "Bachelor of Science in Software Engineering",
-        "graduated": "Expected May 2022",
+        "graduated": "Expected April 2022",
         "description": "Relevant Coursework: Data Structures and Algorithms, Principles of Software Design, Software Architecture/Testing, Database Management Systems"
       }
     ],
@@ -49,7 +49,7 @@
         "company": "Amazon",
         "title": "Incoming SDE Intern",
         "years": "June 2021 - September 2021",
-        "description": "Vancouver, Canada",
+        "description": "Consumer Organization",
         "image": "amazon.png"
       },
       {
