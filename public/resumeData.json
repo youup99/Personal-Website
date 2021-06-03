@@ -14,7 +14,6 @@
       "state": "Alberta",
       "zip": "T3G 4M2"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload": "Youup_Kim_Resume.pdf",
     "social": [
       {
@@ -49,7 +48,7 @@
         "company": "Amazon",
         "title": "Incoming SDE Intern",
         "years": "June 2021 - September 2021",
-        "description": "Consumer Organization",
+        "description": "Datapath",
         "image": "amazon.png"
       },
       {
