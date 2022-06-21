@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Youup Kim",
-    "occupation": "Software Engineering Student",
-    "description": "I'm in my 4th year pursuing a Bachelors in Software Engineering at the University of Calgary",
+    "occupation": "Software Engineer",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -38,9 +38,9 @@
     "education": [
       {
         "school": "University of Calgary",
-        "degree": "Bachelor of Science in Software Engineering",
-        "graduated": "Expected April 2022",
-        "description": "Relevant Coursework: Data Structures and Algorithms, Principles of Software Design, Software Architecture/Testing, Database Management Systems"
+        "degree": "Bachelor of Science in Software Engineering (with Distinction)",
+        "graduated": "April 2022",
+        "description": ""
       }
     ],
     "work": [
@@ -48,7 +48,7 @@
         "company": "Modern Treasury",
         "title": "Incoming Software Engineer",
         "years": "August 2022",
-        "description": "Build products that move money",
+        "description": "Payment Interfaces",
         "image": "MT.jpg"
       },
       {
